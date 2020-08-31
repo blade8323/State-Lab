@@ -13,6 +13,7 @@
 		8449011E24F7D6B60073C90D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8449011C24F7D6B60073C90D /* Main.storyboard */; };
 		8449012024F7D6B90073C90D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8449011F24F7D6B90073C90D /* Assets.xcassets */; };
 		8449012324F7D6B90073C90D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8449012124F7D6B90073C90D /* LaunchScreen.storyboard */; };
+		8449012B24F7F32E0073C90D /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = 8449012A24F7F32E0073C90D /* smiley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8449011F24F7D6B90073C90D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8449012224F7D6B90073C90D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8449012424F7D6B90073C90D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8449012A24F7F32E0073C90D /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smiley.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8449011F24F7D6B90073C90D /* Assets.xcassets */,
 				8449012124F7D6B90073C90D /* LaunchScreen.storyboard */,
 				8449012424F7D6B90073C90D /* Info.plist */,
+				8449012A24F7F32E0073C90D /* smiley.png */,
 			);
 			path = "State Lab";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8449012B24F7F32E0073C90D /* smiley.png in Resources */,
 				8449012324F7D6B90073C90D /* LaunchScreen.storyboard in Resources */,
 				8449012024F7D6B90073C90D /* Assets.xcassets in Resources */,
 				8449011E24F7D6B60073C90D /* Main.storyboard in Resources */,
